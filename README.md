@@ -1,6 +1,7 @@
-## Getting Started
+## Abrar Shkahi
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Welcome to the VS Code Java world.
+Here I wil save all the JAVA school activity code.
 
 ## Folder Structure
 

@@ -1,7 +1,24 @@
 {
-    "java.project.sourcePaths": ["src"],
+    "java.project.sourcePaths": [
+        "src"
+    ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
-    ]
+    ],
+    "workbench.colorTheme": "Mystic Cap",
+    "editor.fontFamily": "Cascadia Code",
+    "editor.fontLigatures": "'calt', 'ss01'",
+    "editor.fontSize": 15,
+    "editor.cursorBlinking": "expand",
+    "files.autoSave": "onFocusChange",
+    "editor.acceptSuggestionOnEnter": "off",
+    "C_Cpp.formatting": "vcFormat",
+    "C_Cpp.autocompleteAddParentheses": true,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "[csharp]": {
+        "editor.codeLens": false,
+    }
 }
