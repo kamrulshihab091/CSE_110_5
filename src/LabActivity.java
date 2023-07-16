@@ -6,20 +6,13 @@ public class LabActivity {
     private int x;
     private int[] nums;
 
-    public LabActivity() {
-        x = 5;
-    }
+    public LabActivity() { x = 5; }
 
-    public int getX() {
-        return x;
-    }
+    public int getX() { return x; }
 
-    public void setX(int a) {
-        x = a;
-    }
+    public void setX(int a) { x = a; }
 
-    // public void bubble() {
-    // }
+    // public void bubble() {}
 
     public void insertion() {
         for (int border = 1; border < nums.length; border++) {
@@ -33,8 +26,7 @@ public class LabActivity {
         }
     }
 
-    // public void quick() {
-    // }
+    // public void quick() {}
 
     public void selection() {
         for (int i = 0; i < nums.length - 1; i++) {
