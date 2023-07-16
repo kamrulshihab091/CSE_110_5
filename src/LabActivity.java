@@ -5,21 +5,11 @@ public class LabActivity {
     private int[] nums;
     public LabActivity() { x = 5; }
 
-<<<<<<< HEAD
     public int getX() { return x; }
 
     public void setX(int a) { x = a; }
 
     // public void bubble() { }
-=======
-    public LabActivity() { x = 5; }
-
-    public int getX() { return x; }
-
-    public void setX(int a) { x = a; }
-
-    // public void bubble() {}
->>>>>>> 1a2693d33a9bc98cd7e7f30d041fb592908b122a
 
     public void insertion() {
         for (int border = 1; border < nums.length; border++) {
@@ -33,11 +23,7 @@ public class LabActivity {
         }
     }
 
-<<<<<<< HEAD
     // public void quick() { }
-=======
-    // public void quick() {}
->>>>>>> 1a2693d33a9bc98cd7e7f30d041fb592908b122a
 
     public void selection() {
         for (int i = 0; i < nums.length - 1; i++) {
