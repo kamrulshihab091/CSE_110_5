@@ -7,7 +7,7 @@
         "lib/**/*.jar"
     ],
     "workbench.colorTheme": "Mystic Cap",
-    "editor.fontFamily": "Cascadia Code",
+    "editor.fontFamily": "Cascadia Code light",
     "editor.fontLigatures": "'calt', 'ss01'",
     "editor.fontSize": 15,
     "editor.cursorBlinking": "expand",
@@ -20,5 +20,6 @@
     },
     "[csharp]": {
         "editor.codeLens": false,
-    }
+    },
+    "redhat.telemetry.enabled": false
 }
