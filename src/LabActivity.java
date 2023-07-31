@@ -1,5 +1,7 @@
+import java.util.Scanner;
+
 public class LabActivity {
-    java.util.Scanner get = new java.util.Scanner(System.in);
+    static Scanner get = new Scanner(System.in);
 
     private int x;
     private int[] nums;
@@ -107,12 +109,12 @@ public class LabActivity {
         printNums();
     }
 
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         LabActivity labAssignment = new LabActivity();
 
 
 
 
-        labAssignment.get.close();
+        get.close();
     }
 }
