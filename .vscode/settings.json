@@ -7,18 +7,13 @@
         "lib/**/*.jar"
     ],
     "workbench.colorTheme": "Mystic Cap",
-    "editor.fontFamily": "Cascadia Code",
+    "editor.fontFamily": "Cascadia Code light",
     "editor.fontLigatures": "'calt', 'ss01'",
     "editor.fontSize": 15,
+    "extensions.ignoreRecommendations": true,
+    "editor.minimap.autohide": true,
+    "editor.minimap.renderCharacters": false,
     "editor.cursorBlinking": "expand",
     "files.autoSave": "onFocusChange",
-    "editor.acceptSuggestionOnEnter": "off",
-    "C_Cpp.formatting": "vcFormat",
-    "C_Cpp.autocompleteAddParentheses": true,
-    "[python]": {
-        "editor.formatOnType": true
-    },
-    "[csharp]": {
-        "editor.codeLens": false,
-    }
+    "editor.acceptSuggestionOnEnter": "smart"
 }
