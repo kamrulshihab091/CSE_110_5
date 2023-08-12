@@ -110,8 +110,6 @@ public class LabActivity {
     }
 
     public static void main(String[] args) {
-        LabActivity labAssignment = new LabActivity();
-
 
 
 

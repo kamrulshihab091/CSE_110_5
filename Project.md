@@ -1,7 +1,7 @@
 # Event management system
 
 1. Requrement analysis
-2. design
+2. Design
 3. Implimention
 4. Rigorou testng and result analysis
 
