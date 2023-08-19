@@ -1,7 +1,16 @@
-public class Crews extends Identity {
+public class Crews {
     private int crewId;
     private String title;
     private String description;
+    private String name;
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getName(String name) {
+        return this.name;
+    }
 
     public void setCrewId(int crewId) {
         this.crewId = crewId;
