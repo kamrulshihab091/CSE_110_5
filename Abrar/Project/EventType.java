@@ -16,16 +16,26 @@ public class EventType {
         return description;
     }
 
-    public void setDescription(String description) {
-        this.description = description;
+    public void setTypeID(int typeID) {
+        this.typeID = typeID;
     }
 
     public void setName(String name) {
         this.name = name;
     }
 
-    public void setTypeID(int typeID) {
-        this.typeID = typeID;
+    public void setDescription(String description) {
+        this.description = description;
     }
+
+    public void create()
+    {
+
+    }
+    public void update()
+    {
+        
+    }
+
 
 }
